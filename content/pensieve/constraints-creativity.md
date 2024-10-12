@@ -8,7 +8,7 @@ hideBackToTop: true
 readTime: true
 autonumber: true
 math: false
-tags: ["t-city"]
+tags: ["T-City"]
 showTags: true
 ---
 
