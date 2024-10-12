@@ -81,7 +81,7 @@ style = 'algol'
 # Giscus comments
 [params.giscus]
 enable = false
-repo = "user/repo"
+repo = "kzoeps/kzoeps.me"
 repoid = "repoId"
 category = "General"
 categoryid = "categoryId"
