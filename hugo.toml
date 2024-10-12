@@ -1,0 +1,89 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '@kzoeps gi zimchu'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[params]
+# Meta description
+description = "A kzoeps blog"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'kuzu kuzu wai!'
+homeIntroContent = """
+I'm a 22-year-old software developer from Bhutan with a passion for creating things that have both financial value and a positive impact. Right now, I'm really into indiepreneurship and meditation. For me, programming is just a means to an end, a way to bring my ideas to life. I know it might sound a bit cheesy, but it's the truth.
+Aside from technology, I love talking about various topics, especially anything related to Bhutan. I'm particularly interested in its economics, the future, and the music scene.
+
+You can check out my blogs [here](https://kzoeps.substack.com) or read some musings [here](/posts)
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Thoughts'
+homeCollection = 'pensieve'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "github"
+url = "https://www.github.com/kzoeps/"
+
+[[params.social]]
+name = "substack"
+url = "https://kzoeps.substack.com"
+
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/kzoeps"
+
+[[params.social]]
+name = "stackoverflow"
+url = "https://stackoverflow.com/users/12949177/kzoeps"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "pensieve"
+url = "/pensieve"
+
+[[params.menu]]
+name = "projects"
+url = "/projects"
+
+[[params.menu]]
+name = "posties"
+url = "https://kzoeps.com/posties"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
