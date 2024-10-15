@@ -74,6 +74,10 @@ url = "/projects"
 name = "posties"
 url = "https://posties.kzoeps.com/posties"
 
+[[params.menu]]
+name = "notebook"
+url = "/notebook"
+
 # Syntax highligth on code blocks
 [markup]
 [markup.highlight]
