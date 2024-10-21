@@ -8,6 +8,7 @@ hideBackToTop: true
 math: false
 autonumber: false
 readTime: true
+showTags: true
 tags: ["Tam-tshi-sum", "T-City"]
 ---
 Growing up in what could be the best family you can end up in means, you view your older siblings and your parents as idols. Beings incapable of mistakes. But as you grow older and I think thats also a part of growing older, is realizing that they're just human at the end of the day.

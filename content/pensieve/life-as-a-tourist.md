@@ -8,6 +8,7 @@ hideBackToTop: true
 readTime: true
 autonumber: false
 math: false
+showTags: true
 tags: ["Tam-tshi-sum", "T-City"]
 ---
 
