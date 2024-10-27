@@ -14,7 +14,7 @@ showTags: true
 
 the swimmers body illusion: you think professional swimmers have this sexy body because they swim. but its rather the other way round. they're professional swimmers cause their bodies be made for swimming. Just built different.
 
-But i think this example digresses from the main point of this example.
+But i think this example digresses from the main point of this.
 
 I've come across small incidences in my life where we think we are infallible to something because in our heads we've never done it. Eg: I always turn the stove off before I leave, yeah but the thing is you'll  never remember the times where you left the stove on cause if you remembered it you'd turn it off.
 
