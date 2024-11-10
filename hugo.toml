@@ -75,6 +75,10 @@ name = "posties"
 url = "https://posties.kzoeps.com/posties"
 
 [[params.menu]]
+name = "bop-stop"
+url = "https://posties.kzoeps.com/bop-stop"
+
+[[params.menu]]
 name = "notebook"
 url = "/notebook"
 
