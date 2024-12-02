@@ -71,6 +71,10 @@ name = "projects"
 url = "/projects"
 
 [[params.menu]]
+name = "Namthar"
+url = "namthar"
+
+[[params.menu]]
 name = "posties"
 url = "https://posties.kzoeps.com/posties"
 

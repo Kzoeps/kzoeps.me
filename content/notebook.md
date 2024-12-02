@@ -16,3 +16,6 @@ honestly the most happening site for bhutanese community.
 
 [Toh Za Wa Sho](https://thozowasho.blogspot.com/?m=1)\
 Not maintained any more but still pretty interesting.(Found this on r/bhutan)
+
+[Beenzino](https://www.instagram.com/realisshoman/)\
+This guy is such a vibe. Sooo sooo cool and him and steffy are really cute
