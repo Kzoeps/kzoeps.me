@@ -21,10 +21,10 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'kuzu kuzu wai!'
 homeIntroContent = """
-I'm a 22-year-old software developer from Bhutan with a passion for creating things that have both financial value and a positive impact. Right now, I'm really into indiepreneurship and meditation. For me, programming is just a means to an end, a way to bring my ideas to life. I know it might sound a bit cheesy, but it's the truth.
+I'm a 24-year-old software developer from Bhutan with a passion for creating things that have both financial value and a positive impact. Right now, I'm really into indiepreneurship and meditation. For me, programming is just a means to an end, a way to bring my ideas to life. I know it might sound a bit cheesy, but it's the truth.
 Aside from technology, I love talking about various topics, especially anything related to Bhutan. I'm particularly interested in its economics, the future, and the music scene.
 
-You can check out my blogs [here](https://kzoeps.substack.com) or read some musings [here](/posts)
+You can check out my blogs [here](https://kzoeps.substack.com) or read some musings [here](/pensieve)
 """
 
 # Collection to display on home
@@ -72,7 +72,7 @@ url = "/projects"
 
 [[params.menu]]
 name = "Namthar"
-url = "namthar"
+url = "/namthar"
 
 [[params.menu]]
 name = "posties"
