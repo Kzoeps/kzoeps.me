@@ -22,3 +22,12 @@ This guy is such a vibe. Sooo sooo cool and him and steffy are really cute
 
 [Lifted Asia](https://liftedasia.com/)\
 Asia, hip-hop, emerging economies, south asia. this website basically hits all the spots
+
+[Dol Dol Tatoo](https://www.instagram.com/doldol_tattoo/)\
+NYC Tibetan tatoo artist, with a pretty cute [boyfriend](https://www.instagram.com/stories/sonampss/) as well loooll cute couple in general
+
+[Lobsang Soepa](https://www.instagram.com/lopsangsoepa/)\
+Tibetan making some pretty interesting comics. eg: khandro drowa zangmo
+
+[Specs n Sarcasm](https://www.instagram.com/specs.n.sarcasm/)\
+Makes some pretty localized stickers which i dig
