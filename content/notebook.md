@@ -20,5 +20,5 @@ Not maintained any more but still pretty interesting.(Found this on r/bhutan)
 [Beenzino](https://www.instagram.com/realisshoman/)\
 This guy is such a vibe. Sooo sooo cool and him and steffy are really cute
 
-[Lifted Asian](https://liftedasia.com/)\
+[Lifted Asia](https://liftedasia.com/)\
 Asia, hip-hop, emerging economies, south asia. this website basically hits all the spots
