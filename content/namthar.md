@@ -28,3 +28,17 @@ hidePagination: true
 - Dating gahsem dorji and an assessment from tsenda. so weird ( prolly cause my feeds been getting populated by tsenda)
 
 - Im trying to find indian chinese szechwan style food in paud. But am unable to find any thing that fits the description. There is like jalebi pakora but no chinese. This was visceral.
+
+- Talking to TRap and baeyul bois about how much they earn. Dedrik earning one lakh a month and TRap earning 14 lakhs and my manhood disappearing cause i thought atleast even though im not as popular im earning more.
+
+- Structured data & implementing even more requirements on top of that
+
+- Ryoji, Rohan say some very hurftul things. I say something to rohan first but then he keeps come back with something even harder
+
+- Playing football with Tew, Ugay, JTN, Acho. Getting juice and then meeting Thokmay. Giving gum to Rinzin's babies.
+
+- 3 Kids are separated, SC is crying and one annoying ass dude wants to keep using my phone and he isn't even in actual need of it. Remember being super annoyed with him. Yusel hitting puberty and something
+
+- Workplace, talking about something like presenting your work, asking remo about the price table while he is rushing out.
+
+- sleeping with gaeks, just sleep. and then talking to palms late at night being convinced that i like her and have to date her
