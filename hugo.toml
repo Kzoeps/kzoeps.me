@@ -1,6 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = '@kzoeps gi zimchu'
+theme = 'typo'
 
 [taxonomies]
 tag = 'tags'
