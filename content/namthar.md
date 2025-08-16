@@ -42,3 +42,5 @@ hidePagination: true
 - Workplace, talking about something like presenting your work, asking remo about the price table while he is rushing out.
 
 - sleeping with gaeks, just sleep. and then talking to palms late at night being convinced that i like her and have to date her
+
+- was playing football with some white dudes and got bullied more like shouted at and ignored cause i was really really bad.

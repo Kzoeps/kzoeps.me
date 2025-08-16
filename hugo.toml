@@ -10,6 +10,7 @@ tag = 'tags'
 googleAnalytics = "G-xxxxxxxxx"
 
 [params]
+customCSS = ["css/custom.css"]
 # Meta description
 description = "A kzoeps blog"
 

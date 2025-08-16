@@ -12,4 +12,8 @@ showTags: true
 tags: ["stray-thoughts"]
 ---
 
-![a thoughtful pot](/images/thoughtful-design/is.jpg "A Thoughtful Pot")
+![a thoughtful pot](/images/thoughtful-design/is.jpg#small "A Thoughtful Pot")
+
+This pot is a thoughtful pot because it factors into account that the user will sometimes try to pour out the liquid straight from the pot into the cup. and when doing so that curved lip makes it so that the liquid gets concentrated in the middle. and isn't splattered everywhere.
+
+User centric design.
