@@ -12,7 +12,6 @@ tags: ["tam-tshi-sum"]
 showTags: true
 ---
 
-
 I just wanna write and create an update. I was going through some of my past writing and I stopped for a minute, but I genuinely want to get back into it.
 
 Some of the things I've been thinking about, and always wanted to write about, is Asian masculinity. Being an Asian dude is kinda funny and interesting lol. Especially if you're Asian Asian and not Asian American. Because you grow up in a space where you're the shit, or even if you aren't, you know you belong to the conventional beauty standards. And by that I don't mean you're handsome or anything, just that generally you're okay.
@@ -34,3 +33,7 @@ Versus Conn, where walking into a classroom felt like being an old grandma or an
 And I always thank god, like man, I'm glad I didn't grow up in a white context as an Asian dude. My self esteem would be in the gutter, never feeling like a man worthy of attention, y'know. Asian masculinity is definitely something I'm always aware of, especially when I travel.
 
 On the note of Berlin and Europe though, I would've thought the sense of attraction would be the same across the board. But Paris felt significantly different from Berlin. Berlin felt way more different to Connecticut. In Berlin at least, like 1 in 7 ish, I could still feel the attraction. But Paris felt much more open, much more like Asia, where I'm not starting from the bottom of the pecking order. I could see that in the number of Asian dudes paired with other races too. It's always apparent, and the environment around me just corroborates it, y'know.
+
+And this is the part that always gets me. If you ever bring this up with a non Asian dude, they'll always hit you with the "nah bro I don't think that's the case, you're probably just overthinking it" or "it's your game" or "you're just not trying hard enough." But bring it up with another Asian dude and he just gets it. No explaining required, no convincing needed, just instant camaraderie. Like you're both carrying around the same weird invisible data set that only the two of you can see.
+
+but at the same time its gotten better and keep getting better. Asian male attractivity and masculinity has been single handedly carried by one country and one culture. Thank you BTS, thank you K-Pop and thank you south korea for single handedly bringing up the asian  male in the pecking order. By asian i mean east asian looking, south asians still be having a hard time. its still currently in the phase of fetishization which is weird but it needs to start somewhere. and the younger generation i think will have more positive image of the asian man.
